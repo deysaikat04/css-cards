@@ -2,4 +2,6 @@
 
 Simple CSS card effects built using React + Vite + CSS
 
-![image info](/assets/images/output.gif)
+#### Output -
+
+![Output](https://moonlit-alfajores-26c42b.netlify.app/assets/images/output.gif)
